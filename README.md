@@ -14,4 +14,3 @@ PDF: https://aclanthology.org/2024.nlp4dh-1.35  <br />
   address = {Miami, USA}, <br />
   year={2024} <br />
   }
-
