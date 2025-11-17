@@ -1,7 +1,6 @@
 # **Text_vs._Transcription**
 **Paper**: "Text vs. Transcription: A Study of Differences Between the Writing and Speeches of U.S. Presidents"
-
-PDF: https://aclanthology.org/2024.nlp4dh-1.35  <br />
+Link: https://aclanthology.org/2024.nlp4dh-1.35  <br />
 <br />
 **Cite**: <br />
 @inproceedings{rajaei-moghadam2024text, <br />
