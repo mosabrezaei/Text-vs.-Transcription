@@ -1,7 +1,7 @@
 # **Text_vs._Transcription**
 **Paper**: "Text vs. Transcription: A Study of Differences Between the Writing and Speeches of U.S. Presidents"</br>
-**Link**: https://aclanthology.org/2024.nlp4dh-1.35</br>
 
+**Link**: https://aclanthology.org/2024.nlp4dh-1.35</br>
 **Dataset:** https://huggingface.co/datasets/Mina-Rajaei-Moghadam/US-Presidents-Spoken-and-Written-Sentences <br />
 <br />
 **Cite**:</br>
