@@ -1,4 +1,4 @@
-# **Text_vs._Transcription**
+# **Text vs. Transcription**
 **Paper**: "Text vs. Transcription: A Study of Differences Between the Writing and Speeches of U.S. Presidents"</br>
 
 **Link**: https://aclanthology.org/2024.nlp4dh-1.35</br>
